@@ -1,0 +1,11 @@
+htdocs/*.xz
+htdocs/*.zst
+htdocs/*.sig
+htdocs/zfs-*/
+htdocs/download-*.log
+htdocs/last-run.txt
+htdocs/repo-add.log
+htdocs/410.html
+htdocs/repo-add.sh
+htdocs/urls
+logs/

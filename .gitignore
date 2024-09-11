@@ -8,4 +8,5 @@ htdocs/repo-add.log
 htdocs/410.html
 htdocs/repo-add.sh
 htdocs/urls
+htdocs/.toolset/archzfs.db
 logs/
